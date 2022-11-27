@@ -1,4 +1,6 @@
-# Named Entity Recognition
+## EX.NO:06
+## DATE:01.11.2022
+# <p align="center">Named Entity Recognition
 ### AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
 
@@ -32,6 +34,8 @@ We compile the model and fit the train sets and validation sets,We plot the nece
 
 ## PROGRAM
 ```python3
+Developed By: Prasannakumar M
+Register Number:212220230035
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
